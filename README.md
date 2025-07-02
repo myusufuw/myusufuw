@@ -1,19 +1,15 @@
-<h1 align="center">Hi 👋, I'm Muhammd Yusuf</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
-
-<div align="center" style="margin: 30px">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=myusufuw&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<h1 align="center">Hi 👋, I'm Muhammd Yusuf Untung Wahyudi</h1>
+<p>A Frontend Web Developer with a strong passion for building modern, user-centric web applications. I graduated from Alterra Academy’s Frontend Engineering Program in March 2022 and hold a diploma in Arabic Language from the University of Muhammadiyah Surakarta, earned in January 2021. I continue to expand my technical expertise through various training programs, including the Fullstack Developer Bootcamp at Bearmentor Bootcamp.</p>
+<p>Previously, I worked as a Frontend Developer at Valid (the parent company of Lacak.io) for three years. During this time, I gained hands-on experience in developing and maintaining scalable web applications, honing my skills in modern frontend technologies, agile teamwork, and problem-solving in high-paced environments.</p>
+<p>Recognized as a reliable and self-driven professional, I adapt quickly in dynamic teams and remain fully committed to delivering high-quality solutions. I bring not only technical skills but also a growth mindset and strong ownership to every project I undertake.</p>
 
 <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=myusufuw&label=Profile%20views&color=0e75b6&style=flat" alt="myusufuw" /> </p>
-
-- 🌱 I’m currently learning **Fullstack Developer**
+- 🌱 I’m currently learning **Fullstack Development**
 
 - 👨‍💻 All of my projects are available at [myusufuw.com](myusufuw.com)
 
-- ⚡ Fun fact **I like learning Arabic and progamming 💖**
+- ⚡ Fun fact **I like learning Arabic languages and progamming 💖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,6 +44,7 @@
 </div>
 
 <br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=myusufuw&label=Profile%20views&color=0e75b6&style=flat" alt="myusufuw" /> </p>
 
 <div align="center" style="margin-top: 24px;">
   <img src="https://github-readme-stats.vercel.app/api?username=myusufuw&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />

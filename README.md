@@ -3,13 +3,7 @@
 <p>Previously, I worked as a Frontend Developer at Valid (the parent company of Lacak.io) for three years. During this time, I gained hands-on experience in developing and maintaining scalable web applications, honing my skills in modern frontend technologies, agile teamwork, and problem-solving in high-paced environments.</p>
 <p>Recognized as a reliable and self-driven professional, I adapt quickly in dynamic teams and remain fully committed to delivering high-quality solutions. I bring not only technical skills but also a growth mindset and strong ownership to every project I undertake.</p>
 
-<br/>
-
-- 🌱 I’m currently learning **Fullstack Development**
-
 - 👨‍💻 All of my projects are available at [myusufuw.com](myusufuw.com)
-
-- ⚡ Fun fact **I like learning Arabic languages and progamming 💖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,15 +18,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
